@@ -150,10 +150,10 @@ nav {
         width: 100px;
         margin-left: 0;
     }
-}
+} 
 
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
     .hero-image {
         content: url(./images/image-hero-mobile.png);
         width: 100%;
@@ -170,7 +170,7 @@ nav {
     }
 
     .title {
-        font-size: 2rem;
+        font-size: 1.7rem;
         margin-top: 20px;
         margin-bottom: 15px;
     }
@@ -197,8 +197,8 @@ nav {
     }
 
     .partners img {
-        width: 80px;
-        margin-left: 0;
+        width: 18%;
+        margin-left: 10px;
     }
 }
 
@@ -214,7 +214,7 @@ nav {
     }
 
     .partners img {
-        width: 60px;
+        width: 18%;
         margin-left: 20px;
     }
 }
